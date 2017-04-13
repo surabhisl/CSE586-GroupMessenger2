@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Mar 16 02:17:24 EDT 2017
+2.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+8.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_group_messenger.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_group_messenger.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

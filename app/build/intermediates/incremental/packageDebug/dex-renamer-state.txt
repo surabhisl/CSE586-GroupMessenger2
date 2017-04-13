@@ -1,0 +1,4 @@
+#Thu Mar 16 02:54:22 EDT 2017
+base.0=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/moonisjaved/Desktop/PA2b/GroupMessenger2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
